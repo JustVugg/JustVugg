@@ -13,13 +13,14 @@ Here you'll find all my public repositories with direct links.
 
 - **[poly-mcp](https://github.com/JustVugg/poly-mcp)** – Edge-native modular server for IoT and MCP devices.
 - **[llm-use](https://github.com/llm-use/llm-use)** – Intelligent routing system for language models (AI).
-- **[snmpware](https://github.com/JustVugg/snmpware)** – Cross-platform SNMP network management tools.
+- **[snmpy](https://github.com/snmpware/snmpy)** – Pure Python SNMP library with full v1/v2c/v3 support, authentication, encryption, and UPS monitoring capabilities. Zero dependencies for core functionality.
+- **[Snmpman](https://github.com/snmpware/Snmpman)** – A cross-platform SNMP browser application with GUI for network device management and monitoring
 - **[gonk](https://github.com/JustVugg/gonk)** – Ultra-lightweight, edge-native API Gateway written in Go.
 - **[Mqttcpp](https://github.com/JustVugg/Mqttcpp)** – High-performance MQTT client & broker library in C++.
 - **[Wiredigg](https://github.com/JustVugg/Wiredigg)** – Python tool for network packet capture and analysis.
-- **[IoT-Edge-MCP-Server](https://github.com/JustVugg/IoT-Edge-MCP-Server)** - Mcp server for IoT  
-- **[GitLab-MCP-Server](https://github.com/poly-mcp/GitLab-MCP-Server)** - Mcp server for GitLab
-
+- **[IoT-Edge-MCP-Server](https://github.com/JustVugg/IoT-Edge-MCP-Server)** - MCP server for Industrial IoT, SCADA and PLC systems. Unifies MQTT sensors, Modbus devices and industrial equipment into a single AI-orchestrable API. Features real-time monitoring, alarms, time-series storage and actuator control. 
+- **[GitLab-MCP-Server](https://github.com/poly-mcp/GitLab-MCP-Server)** - MCP server for GitLab integration with AI assistants. Works with Cursor, ChatGPT and PolyMCP. Manage merge requests, analyze CI/CD pipelines, create ADR documents.
+- **[Blender-MCP-Server](https://github.com/poly-mcp/Blender-MCP-Server)** - MCP server addon for Blender - Control Blender via AI agents through 51 powerful tools. Made to be used with PolyMCP for intelligent tool orchestration. Features thread-safe execution, auto-dependency installation, and complete 3D workflow automation.
 
 
 ## Contact
