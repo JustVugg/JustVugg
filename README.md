@@ -11,10 +11,10 @@ Here you'll find all my public repositories with direct links.
 
 ## Featured Projects
 
-- **[poly-mcp](https://github.com/JustVugg/poly-mcp)** – Edge-native modular server for IoT and MCP devices.
-- **[llm-use](https://github.com/llm-use/llm-use)** – Intelligent routing system for language models (AI).
+- **[poly-mcp](https://github.com/JustVugg/poly-mcp)** –  A simple and efficient way to interact with MCP servers using custom agents.
+- **[llm-use](https://github.com/llm-use/llm-use)** – Intelligent routing automatically selects the optimal model.
 - **[snmpy](https://github.com/snmpware/snmpy)** – Pure Python SNMP library with full v1/v2c/v3 support, authentication, encryption, and UPS monitoring capabilities. Zero dependencies for core functionality.
-- **[Snmpman](https://github.com/snmpware/Snmpman)** – A cross-platform SNMP browser application with GUI for network device management and monitoring
+- **[Snmpman](https://github.com/snmpware/Snmpman)** – A cross-platform SNMP browser application with GUI for network device management and monitoring.
 - **[gonk](https://github.com/JustVugg/gonk)** – Ultra-lightweight, edge-native API Gateway written in Go.
 - **[Mqttcpp](https://github.com/JustVugg/Mqttcpp)** – High-performance MQTT client & broker library in C++.
 - **[Wiredigg](https://github.com/JustVugg/Wiredigg)** – Python tool for network packet capture and analysis.
