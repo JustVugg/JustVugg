@@ -11,7 +11,7 @@ Here you'll find all my public repositories with direct links.
 
 ## Featured Projects
 
-- **[poly-mcp](https://github.com/JustVugg/poly-mcp)** –  A simple and efficient way to interact with MCP servers using custom agents.
+- **[poly-mcp](https://github.com/poly-mcp/Polymcp)** –  A simple and efficient way to interact with MCP servers using custom agents.
 - **[llm-use](https://github.com/llm-use/llm-use)** – Intelligent routing automatically selects the optimal model.
 - **[snmpy](https://github.com/snmpware/snmpy)** – Pure Python SNMP library with full v1/v2c/v3 support, authentication, encryption, and UPS monitoring capabilities. Zero dependencies for core functionality.
 - **[Snmpman](https://github.com/snmpware/Snmpman)** – A cross-platform SNMP browser application with GUI for network device management and monitoring.
