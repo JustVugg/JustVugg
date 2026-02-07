@@ -14,6 +14,7 @@ Here you'll find all my public repositories with direct links.
 - **[poly-mcp](https://github.com/poly-mcp/Polymcp)** –  A simple and efficient way to interact with MCP servers using custom agents.
 - **[llm-use](https://github.com/llm-use/llm-use)** – Intelligent routing automatically selects the optimal model.
 - **[easymemory](https://github.com/JustVugg/easymemory)** – Intelligent routing automatically selects the optimal model.
+- **[coocon](https://github.com/JustVugg/coocon)** – A hardened local code runner with predictable limits, clean UX, and an agent‑friendly API for executing snippets without heavy infrastructure. 
 - **[snmpy](https://github.com/snmpware/snmpy)** – Pure Python SNMP library with full v1/v2c/v3 support, authentication, encryption, and UPS monitoring capabilities. Zero dependencies for core functionality.
 - **[Snmpman](https://github.com/snmpware/Snmpman)** – A cross-platform SNMP browser application with GUI for network device management and monitoring.
 - **[gonk](https://github.com/JustVugg/gonk)** – Ultra-lightweight, edge-native API Gateway written in Go.
