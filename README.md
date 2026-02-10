@@ -16,7 +16,7 @@ Here you'll find all my public repositories with direct links.
 - **[PolyMCP-MCP-SDK-Apps](https://github.com/poly-mcp/PolyMCP-MCP-SDK-Apps)** –  PolyMCP MCP SDK Apps is a toolkit for building UI applications connected to MCP tools, enabling production-ready dashboards and interactive workflows from reusable components and patterns.
 - **[llm-use](https://github.com/llm-use/llm-use)** – About
 LLM orchestration toolkit for agent workflows: planner + workers + synthesis, optional router (LLM + learned fallback), supports OpenAI/Anthropic/Ollama/llama.cpp, real scraping with caching, MCP server integration, and a TUI chat UI.
-- **[easymemory](https://github.com/JustVugg/easymemory)** – Intelligent routing automatically selects the optimal model.
+- **[easymemory](https://github.com/JustVugg/easymemory)** – A 100% local memory layer for chatbots and agents with an MCP server for Claude, GPT, Gemini, and local models.
 - **[coocon](https://github.com/JustVugg/coocon)** – A hardened local code runner with predictable limits, clean UX, and an agent‑friendly API for executing snippets without heavy infrastructure. 
 - **[snmpy](https://github.com/snmpware/snmpy)** – Pure Python SNMP library with full v1/v2c/v3 support, authentication, encryption, and UPS monitoring capabilities. Zero dependencies for core functionality.
 - **[Snmpman](https://github.com/snmpware/Snmpman)** – A cross-platform SNMP browser application with GUI for network device management and monitoring.
