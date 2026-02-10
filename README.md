@@ -14,7 +14,8 @@ Here you'll find all my public repositories with direct links.
 - **[PolyMCP](https://github.com/poly-mcp/Polymcp)** –  Polymcp provides a simple and efficient way to interact with MCP servers using custom agents.
 - **[PolyMCP-Inspector](https://github.com/poly-mcp/PolyMCP-Inspector)** –  PolyMCP Inspector is a visual testing environment for MCP servers, tools, prompts, and resources, with independent multi-tab sessions and fast agent workflow debugging.
 - **[PolyMCP-MCP-SDK-Apps](https://github.com/poly-mcp/PolyMCP-MCP-SDK-Apps)** –  PolyMCP MCP SDK Apps is a toolkit for building UI applications connected to MCP tools, enabling production-ready dashboards and interactive workflows from reusable components and patterns.
-- **[llm-use](https://github.com/llm-use/llm-use)** – Intelligent routing automatically selects the optimal model.
+- **[llm-use](https://github.com/llm-use/llm-use)** – About
+LLM orchestration toolkit for agent workflows: planner + workers + synthesis, optional router (LLM + learned fallback), supports OpenAI/Anthropic/Ollama/llama.cpp, real scraping with caching, MCP server integration, and a TUI chat UI.
 - **[easymemory](https://github.com/JustVugg/easymemory)** – Intelligent routing automatically selects the optimal model.
 - **[coocon](https://github.com/JustVugg/coocon)** – A hardened local code runner with predictable limits, clean UX, and an agent‑friendly API for executing snippets without heavy infrastructure. 
 - **[snmpy](https://github.com/snmpware/snmpy)** – Pure Python SNMP library with full v1/v2c/v3 support, authentication, encryption, and UPS monitoring capabilities. Zero dependencies for core functionality.
