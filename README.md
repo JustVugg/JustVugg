@@ -19,10 +19,10 @@ LLM orchestration toolkit for agent workflows: planner + workers + synthesis, op
 - **[easymemory](https://github.com/JustVugg/easymemory)** – A 100% local memory layer for chatbots and agents with an MCP server for Claude, GPT, Gemini, and local models.
 - **[coocon](https://github.com/JustVugg/coocon)** – A hardened local code runner with predictable limits, clean UX, and an agent‑friendly API for executing snippets without heavy infrastructure. 
 - **[snmpy](https://github.com/snmpware/snmpy)** – Pure Python SNMP library with full v1/v2c/v3 support, authentication, encryption, and UPS monitoring capabilities. Zero dependencies for core functionality.
-- **[Snmpman](https://github.com/snmpware/Snmpman)** – A cross-platform SNMP browser application with GUI for network device management and monitoring.
+- **[snmp-browser](https://github.com/snmpware/snmp-browser)** – A cross-platform SNMP browser application with GUI for network device management and monitoring.
 - **[gonk](https://github.com/JustVugg/gonk)** – Ultra-lightweight, edge-native API Gateway written in Go.
-- **[Mqttcpp](https://github.com/JustVugg/Mqttcpp)** – High-performance MQTT client & broker library in C++.
-- **[Wiredigg](https://github.com/JustVugg/Wiredigg)** – Python tool for network packet capture and analysis.
+- **[Mqttcpp](https://github.com/JustVugg/Mqttcpp)** – A lightweight and fast C++ library for building MQTT clients and brokers, with support for QoS, authentication, security, persistence, and user/session management.
+- **[Wiredigg](https://github.com/JustVugg/Wiredigg)** – Comprehensive network analysis tool with advanced security features designed for network administrators, security professionals, and IT enthusiasts. It provides real-time packet capture, protocol analysis, anomaly detection, and threat identification capabilities in a modern, user-friendly interface.
 - **[IoT-Edge-MCP-Server](https://github.com/JustVugg/IoT-Edge-MCP-Server)** - MCP server for Industrial IoT, SCADA and PLC systems. Unifies MQTT sensors, Modbus devices and industrial equipment into a single AI-orchestrable API. Features real-time monitoring, alarms, time-series storage and actuator control. 
 - **[GitLab-MCP-Server](https://github.com/poly-mcp/GitLab-MCP-Server)** - MCP server for GitLab integration with AI assistants. Works with Cursor, ChatGPT and PolyMCP. Manage merge requests, analyze CI/CD pipelines, create ADR documents.
 - **[Blender-MCP-Server](https://github.com/poly-mcp/Blender-MCP-Server)** - MCP server addon for Blender - Control Blender via AI agents through 51 powerful tools. Made to be used with PolyMCP for intelligent tool orchestration. Features thread-safe execution, auto-dependency installation, and complete 3D workflow automation.
