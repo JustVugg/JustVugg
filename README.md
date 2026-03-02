@@ -31,4 +31,3 @@ LLM orchestration toolkit for agent workflows: planner + workers + synthesis, op
 ## Contact
 
 - 💬 Twitter / X: [@justvugg](https://x.com/justvugg)  
-- 🌐 Website: [poly-mcp.com](https://www.poly-mcp.com/)
