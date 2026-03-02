@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 Here you'll find all my public repositories with direct links.
 
 ## Featured Projects
-
+- **[DBCLI](https://github.com/JustVugg/dbcli)** –  Lightweight, agent-optimized database CLI with one-shot schema introspection, column profiling, and ERD generation.
 - **[PolyMCP](https://github.com/poly-mcp/Polymcp)** –  Polymcp provides a simple and efficient way to interact with MCP servers using custom agents.
 - **[PolyMCP-Inspector](https://github.com/poly-mcp/PolyMCP-Inspector)** –  PolyMCP Inspector is a visual testing environment for MCP servers, tools, prompts, and resources, with independent multi-tab sessions and fast agent workflow debugging.
 - **[PolyMCP-MCP-SDK-Apps](https://github.com/poly-mcp/PolyMCP-MCP-SDK-Apps)** –  PolyMCP MCP SDK Apps is a toolkit for building UI applications connected to MCP tools, enabling production-ready dashboards and interactive workflows from reusable components and patterns.
