@@ -10,6 +10,7 @@ Welcome to my GitHub profile!
 Here you'll find all my public repositories with direct links.
 
 ## Featured Projects
+- **[distillery](https://github.com/JustVugg/distillery)** –  Turn documents into high-quality instruction datasets with grounding, quality filtering, deduplication, and provenance.
 - **[DBCLI](https://github.com/JustVugg/dbcli)** –  Lightweight, agent-optimized database CLI with one-shot schema introspection, column profiling, and ERD generation.
 - **[PolyMCP](https://github.com/poly-mcp/Polymcp)** –  Polymcp provides a simple and efficient way to interact with MCP servers using custom agents.
 - **[PolyMCP-Inspector](https://github.com/poly-mcp/PolyMCP-Inspector)** –  PolyMCP Inspector is a visual testing environment for MCP servers, tools, prompts, and resources, with independent multi-tab sessions and fast agent workflow debugging.
