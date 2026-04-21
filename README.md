@@ -10,7 +10,8 @@ Welcome to my GitHub profile!
 Here you'll find all my public repositories with direct links.
 
 ## Featured Projects
-- **[tuneforge](https://github.com/JustVugg/tuneforge)** –  An MCP server for dataset generation, fine-tuning, RL, and evaluation of LLMs — directly from your coding agent..
+- **[cli-use](https://github.com/JustVugg/cli-use)** –  Turn any MCP server into a CLI in one command.
+- **[tuneforge](https://github.com/JustVugg/tuneforge)** –  An MCP server for dataset generation, fine-tuning, RL, and evaluation of LLMs — directly from your coding agent.
 - **[distillery](https://github.com/JustVugg/distillery)** –  Turn documents into high-quality instruction datasets with grounding, quality filtering, deduplication, and provenance.
 - **[DBCLI](https://github.com/JustVugg/dbcli)** –  Lightweight, agent-optimized database CLI with one-shot schema introspection, column profiling, and ERD generation.
 - **[PolyMCP](https://github.com/poly-mcp/Polymcp)** –  Polymcp provides a simple and efficient way to interact with MCP servers using custom agents.
