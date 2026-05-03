@@ -14,9 +14,6 @@ Here you'll find all my public repositories with direct links.
 - **[tuneforge](https://github.com/JustVugg/tuneforge)** –  An MCP server for dataset generation, fine-tuning, RL, and evaluation of LLMs — directly from your coding agent.
 - **[distillery](https://github.com/JustVugg/distillery)** –  Turn documents into high-quality instruction datasets with grounding, quality filtering, deduplication, and provenance.
 - **[DBCLI](https://github.com/JustVugg/dbcli)** –  Lightweight, agent-optimized database CLI with one-shot schema introspection, column profiling, and ERD generation.
-- **[PolyMCP](https://github.com/poly-mcp/Polymcp)** –  Polymcp provides a simple and efficient way to interact with MCP servers using custom agents.
-- **[PolyMCP-Inspector](https://github.com/poly-mcp/PolyMCP-Inspector)** –  PolyMCP Inspector is a visual testing environment for MCP servers, tools, prompts, and resources, with independent multi-tab sessions and fast agent workflow debugging.
-- **[PolyMCP-MCP-SDK-Apps](https://github.com/poly-mcp/PolyMCP-MCP-SDK-Apps)** –  PolyMCP MCP SDK Apps is a toolkit for building UI applications connected to MCP tools, enabling production-ready dashboards and interactive workflows from reusable components and patterns.
 - **[llm-use](https://github.com/llm-use/llm-use)** – About
 LLM orchestration toolkit for agent workflows: planner + workers + synthesis, optional router (LLM + learned fallback), supports OpenAI/Anthropic/Ollama/llama.cpp, real scraping with caching, MCP server integration, and a TUI chat UI.
 - **[easymemory](https://github.com/JustVugg/easymemory)** – A 100% local memory layer for chatbots and agents with an MCP server for Claude, GPT, Gemini, and local models.
@@ -26,9 +23,6 @@ LLM orchestration toolkit for agent workflows: planner + workers + synthesis, op
 - **[gonk](https://github.com/JustVugg/gonk)** – Ultra-lightweight, edge-native API Gateway written in Go.
 - **[Mqttcpp](https://github.com/JustVugg/Mqttcpp)** – A lightweight and fast C++ library for building MQTT clients and brokers, with support for QoS, authentication, security, persistence, and user/session management.
 - **[Wiredigg](https://github.com/JustVugg/Wiredigg)** – Comprehensive network analysis tool with advanced security features designed for network administrators, security professionals, and IT enthusiasts. It provides real-time packet capture, protocol analysis, anomaly detection, and threat identification capabilities in a modern, user-friendly interface.
-- **[IoT-Edge-MCP-Server](https://github.com/JustVugg/IoT-Edge-MCP-Server)** - MCP server for Industrial IoT, SCADA and PLC systems. Unifies MQTT sensors, Modbus devices and industrial equipment into a single AI-orchestrable API. Features real-time monitoring, alarms, time-series storage and actuator control. 
-- **[GitLab-MCP-Server](https://github.com/poly-mcp/GitLab-MCP-Server)** - MCP server for GitLab integration with AI assistants. Works with Cursor, ChatGPT and PolyMCP. Manage merge requests, analyze CI/CD pipelines, create ADR documents.
-- **[Blender-MCP-Server](https://github.com/poly-mcp/Blender-MCP-Server)** - MCP server addon for Blender - Control Blender via AI agents through 51 powerful tools. Made to be used with PolyMCP for intelligent tool orchestration. Features thread-safe execution, auto-dependency installation, and complete 3D workflow automation.
 
 
 ## Contact
