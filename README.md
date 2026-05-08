@@ -16,7 +16,6 @@ Here you'll find all my public repositories with direct links.
 - **[DBCLI](https://github.com/JustVugg/dbcli)** –  Lightweight, agent-optimized database CLI with one-shot schema introspection, column profiling, and ERD generation.
 - **[llm-use](https://github.com/llm-use/llm-use)** – About
 LLM orchestration toolkit for agent workflows: planner + workers + synthesis, optional router (LLM + learned fallback), supports OpenAI/Anthropic/Ollama/llama.cpp, real scraping with caching, MCP server integration, and a TUI chat UI.
-- **[easymemory](https://github.com/JustVugg/easymemory)** – A 100% local memory layer for chatbots and agents with an MCP server for Claude, GPT, Gemini, and local models.
 - **[coocon](https://github.com/JustVugg/coocon)** – A hardened local code runner with predictable limits, clean UX, and an agent‑friendly API for executing snippets without heavy infrastructure. 
 - **[snmpy](https://github.com/snmpware/snmpy)** – Pure Python SNMP library with full v1/v2c/v3 support, authentication, encryption, and UPS monitoring capabilities. Zero dependencies for core functionality.
 - **[snmp-browser](https://github.com/snmpware/snmp-browser)** – A cross-platform SNMP browser application with GUI for network device management and monitoring.
