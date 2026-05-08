@@ -10,6 +10,7 @@ Welcome to my GitHub profile!
 Here you'll find all my public repositories with direct links.
 
 ## Featured Projects
+- **[praxos](https://github.com/JustVugg/praxos)** –  MCP-powered memory, policy, and experience layer for safer AI agents.
 - **[cli-use](https://github.com/JustVugg/cli-use)** –  Turn any MCP server into a CLI in one command.
 - **[tuneforge](https://github.com/JustVugg/tuneforge)** –  An MCP server for dataset generation, fine-tuning, RL, and evaluation of LLMs — directly from your coding agent.
 - **[distillery](https://github.com/JustVugg/distillery)** –  Turn documents into high-quality instruction datasets with grounding, quality filtering, deduplication, and provenance.
