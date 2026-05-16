@@ -10,6 +10,7 @@ Welcome to my GitHub profile!
 Here you'll find all my public repositories with direct links.
 
 ## Featured Projects
+- **[judicex](https://github.com/JustVugg/judicex)** –  Open-source Legal AI workspace for evidence-grounded legal drafting, matter analysis and verifiable answers.
 - **[gutenberg-cli](https://github.com/JustVugg/gutenberg-cli)** –  From any API surface to verified local agent tools: Go CLI + MCP + skills + SQLite + policy + proofs.
 - **[praxos](https://github.com/JustVugg/praxos)** –  MCP-powered memory, policy, and experience layer for safer AI agents.
 - **[cli-use](https://github.com/JustVugg/cli-use)** –  Turn any MCP server into a CLI in one command.
