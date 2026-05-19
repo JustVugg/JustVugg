@@ -10,6 +10,7 @@ Welcome to my GitHub profile!
 Here you'll find all my public repositories with direct links.
 
 ## Featured Projects
+- **[agentmw](https://github.com/JustVugg/agentmw)** –  Open-source middleware for AI agents — catches mid-run failures, compresses stale context, and grows a reasoning library across runs. Any model, any framework.
 - **[judicex](https://github.com/JustVugg/judicex)** –  Open-source Legal AI workspace for evidence-grounded legal drafting, matter analysis and verifiable answers.
 - **[gutenberg-cli](https://github.com/JustVugg/gutenberg-cli)** –  From any API surface to verified local agent tools: Go CLI + MCP + skills + SQLite + policy + proofs.
 - **[praxos](https://github.com/JustVugg/praxos)** –  MCP-powered memory, policy, and experience layer for safer AI agents.
