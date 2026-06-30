@@ -10,6 +10,7 @@ Welcome to my GitHub profile!
 Here you'll find all my public repositories with direct links.
 
 ## Featured Projects
+- **[nalo](https://github.com/JustVugg/nalo)** –  Open-source Durable Objects for live applications.
 - **[nanoeuler](https://github.com/JustVugg/nanoeuler)** –  GPT-2-style LLM built from scratch in C/CUDA with hand-written backprop, BPE tokenizer, FlashAttention, pretraining, and SFT.
 - **[loomabase](https://github.com/JustVugg/loomabase)** –  Production-oriented offline-first synchronization engine for SQLite and PostgreSQL, built in Rust with column-level CRDTs, authoritative partial replicas, and secure multi- tenancy.
 - **[agentmw](https://github.com/JustVugg/agentmw)** –  Open-source middleware for AI agents — catches mid-run failures, compresses stale context, and grows a reasoning library across runs. Any model, any framework.
