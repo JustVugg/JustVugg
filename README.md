@@ -15,7 +15,7 @@ Here you'll find all my public repositories with direct links.
 - **[loomabase](https://github.com/JustVugg/loomabase)** –  Production-oriented offline-first synchronization engine for SQLite and PostgreSQL, built in Rust with column-level CRDTs, authoritative partial replicas, and secure multi- tenancy.
 - **[agentmw](https://github.com/JustVugg/agentmw)** –  Open-source middleware for AI agents — catches mid-run failures, compresses stale context, and grows a reasoning library across runs. Any model, any framework.
 - **[judicex](https://github.com/JustVugg/judicex)** –  Open-source Legal AI workspace for evidence-grounded legal drafting, matter analysis and verifiable answers.
-- **[gutenberg-cli](https://github.com/JustVugg/gutenberg-cli)** –  From any API surface to verified local agent tools: Go CLI + MCP + skills + SQLite + policy + proofs.
+- **[tools-factory](https://github.com/JustVugg/tools-factory)** –  From any API surface to verified local agent tools: Go CLI + MCP + skills + SQLite + policy + proofs.
 - **[praxos](https://github.com/JustVugg/praxos)** –  MCP-powered memory, policy, and experience layer for safer AI agents.
 - **[cli-use](https://github.com/JustVugg/cli-use)** –  Turn any MCP server into a CLI in one command.
 - **[tuneforge](https://github.com/JustVugg/tuneforge)** –  An MCP server for dataset generation, fine-tuning, RL, and evaluation of LLMs — directly from your coding agent.
