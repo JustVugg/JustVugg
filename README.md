@@ -10,6 +10,7 @@ Welcome to my GitHub profile!
 Here you'll find all my public repositories with direct links.
 
 ## Featured Projects
+- **[mnem](https://github.com/JustVugg/mnem)** –  Memory as state, not search — deterministic, dependency-free memory for AI agents. The memory lives in a Markdown file.
 - **[colibri](https://github.com/JustVugg/colibri)** –  Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦.
 - **[nalo](https://github.com/JustVugg/nalo)** –  Open-source Durable Objects for live applications.
 - **[nanoeuler](https://github.com/JustVugg/nanoeuler)** –  GPT-2-style LLM built from scratch in C/CUDA with hand-written backprop, BPE tokenizer, FlashAttention, pretraining, and SFT.
