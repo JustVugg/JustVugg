@@ -10,6 +10,7 @@ Welcome to my GitHub profile!
 Here you'll find all my public repositories with direct links.
 
 ## Featured Projects
+- **[lumabri](https://github.com/JustVugg/lumabri)** –  Run huge MoE models from a swarm of peers, with the colibri engine. Pure C
 - **[mnem](https://github.com/JustVugg/mnem)** –  Memory as state, not search — deterministic, dependency-free memory for AI agents. The memory lives in a Markdown file.
 - **[colibri](https://github.com/JustVugg/colibri)** –  Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦.
 - **[nalo](https://github.com/JustVugg/nalo)** –  Open-source Durable Objects for live applications.
