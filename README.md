@@ -10,6 +10,7 @@ Welcome to my GitHub profile!
 Here you'll find all my public repositories with direct links.
 
 ## Featured Projects
+- **[flappybri](https://github.com/JustVugg/flappybri)** –  FlappyBri: colibri's hummingbird game, played live by a decision model through POST /v1/systemone.
 - **[anybridge](https://github.com/JustVugg/anybridge)** –  Any website, within reach of any agent. Captures a site's native WebMCP tools and generates the bridge from the live DOM when there are none, exposing both over MCP to Claude Code, Codex and any MCP client.
 - **[openvurp](https://github.com/openvurp/openvurp)** –  A wallet of AI agents that use real tools and ask each other when a question isn't theirs. Runs on your computer; the model is your choice, local or not.
 - **[lumabri](https://github.com/JustVugg/lumabri)** –  Run huge MoE models from a swarm of peers, with the colibri engine. Pure C.
